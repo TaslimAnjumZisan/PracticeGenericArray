@@ -1,0 +1,14 @@
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\bin\Debug\net6.0\PracticeGenericArray.exe
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\bin\Debug\net6.0\PracticeGenericArray.deps.json
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\bin\Debug\net6.0\PracticeGenericArray.runtimeconfig.json
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\bin\Debug\net6.0\PracticeGenericArray.dll
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\bin\Debug\net6.0\PracticeGenericArray.pdb
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.AssemblyInfoInputs.cache
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.AssemblyInfo.cs
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.csproj.CoreCompileInputs.cache
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.dll
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\refint\PracticeGenericArray.dll
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.pdb
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\PracticeGenericArray.genruntimeconfig.cache
+C:\Users\tasnim.anjum\source\repos\PracticeGenericArray\obj\Debug\net6.0\ref\PracticeGenericArray.dll
